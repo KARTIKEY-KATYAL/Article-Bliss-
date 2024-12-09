@@ -17,7 +17,7 @@ A clean, intuitive user interface for seamless interaction and browsing
 This project showcases my ability to integrate third-party APIs, manage application state effectively with Redux Toolkit, and deliver a fully functional front-end that provides users with an optimized and engaging experience.
 
 Example:
-> Article Bliss is a platform that allows users to read and share articles on various topics. It aims to provide an easy-to-use interface for discovering insightful content. The project showcases my skills in web development, including the use of modern technologies like React and Node.js.
+> SummariserGPT is a platform that allows users to read and share articles on various topics. It aims to provide an easy-to-use interface for discovering insightful content. The project showcases my skills in web development, including the use of modern technologies like React and Node.js.
 
 ## Technologies Used
 
